@@ -1,0 +1,21 @@
+{
+  "InventoryHeader": {
+    "version": "1.4"
+  },
+  "Inventory": [
+    {
+      "sku": "test1",
+      "quantity": {
+        "unit": "EACH",
+        "amount": 10
+      }
+    },
+    {
+      "sku": "894728",
+      "quantity": {
+        "unit": "EACH",
+        "amount": 20
+      }
+    }
+  ]
+}
